@@ -1,6 +1,6 @@
 # Ignore ReactJS frontend build folder
 frontend/build/
-node_modules/*
+frontend/node_modules/*
 
 # Ignore Python Django virtual environment
-backend/myenv/
+backend/flashcards/myenv/*
